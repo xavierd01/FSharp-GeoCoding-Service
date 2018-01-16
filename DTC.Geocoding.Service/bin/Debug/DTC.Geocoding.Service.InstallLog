@@ -1,0 +1,55 @@
+﻿Installing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Installing service DTC.GeocodeService.Prototype...
+Service DTC.GeocodeService.Prototype has been successfully installed.
+Creating EventLog source DTC.GeocodeService.Prototype in log Application...
+Committing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Uninstalling assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Removing EventLog source DTC.GeocodeService.Prototype.
+Service DTC.GeocodeService.Prototype is being removed from the system...
+Service DTC.GeocodeService.Prototype was successfully removed from the system.
+Installing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Installing service DTC.GeocodeService.Prototype...
+Service DTC.GeocodeService.Prototype has been successfully installed.
+Creating EventLog source DTC.GeocodeService.Prototype in log Application...
+Committing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Uninstalling assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Removing EventLog source DTC.GeocodeService.Prototype.
+Service DTC.GeocodeService.Prototype is being removed from the system...
+Service DTC.GeocodeService.Prototype was successfully removed from the system.
+Installing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
+Installing service DTC.GeocodeService.Prototype...
+Service DTC.GeocodeService.Prototype has been successfully installed.
+Creating EventLog source DTC.GeocodeService.Prototype in log Application...
+Committing assembly 'C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.InstallLog
+   assemblypath = C:\Development\DTC.Geocoding\DTC.Geocoding.Service\bin\Debug\DTC.Geocoding.Service.exe
